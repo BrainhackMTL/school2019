@@ -12,9 +12,9 @@ Grading criteria will be evaluated using a 3-level scale:
 Grades will be given by several instructors and averaged to obtain the
 final presentation grade.
 
-## Use of best practices (1-3)
+## Use of open-science best practices (1-3)
 
-Expectation: the project uses the best practices learnt during week 1, 
+Expectation: the project uses adequate tools and follow open-science best practices learnt during week 1, 
 or provides a convincing reason to not use them. 
 
 ## Skills and technologies learnt (1-3)
