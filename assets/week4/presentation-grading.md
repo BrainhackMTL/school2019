@@ -14,13 +14,30 @@ final presentation grade.
 
 ## Use of open-science best practices (1-3)
 
-Expectation: the project uses adequate tools and follow open-science best practices learnt during week 1, 
-or provides a convincing reason to not use them. 
+Expectation: the project uses 3 open-science tools learnt during week 1, or
+provides a convincing reason to not use them. The 3 tools may be selected
+in the following list, but other relevant tools will be accepted too. 
+
+* Git
+* GitHub
+* Containers
+* Python
+* BIDS
+* Jupyter notebooks
+* Binder
 
 ## Skills and technologies learnt (1-3)
 
-Expectation: the project uses skills or technologies learnt by the student
-during the school, through formal presentations or informal interactions.
+Expectation: the project uses 1 skill, method or technology learnt by the
+student during the school, through formal presentations or informal
+interactions. The skill, method or technology may be selected in the following list, 
+but other relevant ones will be accepted too.
+
+* Machine learning
+* Multivariate statistics and matrix factorizations
+* Estimation of connectivity
+* High-performance computing
+* DataLad
 
 ## Project relevance (1-3)
 
