@@ -54,5 +54,4 @@ convincing material (e.g., slides).
 * Technological achievement (0-1)
 * Exciting presentation (0-1)
 * Nice brain picture (0-1)
-* Popular vote (0-1, averaged across all participants)
 
